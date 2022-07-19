@@ -75,3 +75,13 @@ i {
     padding:20px;
     font-size:20px;
 }
+
+.description {
+    color:white;
+
+}
+
+.about {
+    border-radius: 4px;
+    background:#FF52B4;
+}
