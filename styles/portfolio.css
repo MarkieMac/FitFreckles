@@ -8,7 +8,7 @@
 h1, h2 {
  font-family: var(--heading-font-family);
 }
-h1, .description {
+h1, .description, .phone {
     color: var(--default-color);
 }
 h2 {
@@ -86,4 +86,8 @@ i {
 
 
     
+}
+
+.contact {
+    padding-top: 300px;
 }
