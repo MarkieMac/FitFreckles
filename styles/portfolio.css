@@ -91,7 +91,7 @@ i {
 }
 
 .contact {
-    padding-top: 300px;
+    padding-top: 10px;
 }
 
 .logo {
@@ -160,6 +160,7 @@ footer {
     margin:0;
 }
 
-.passion {
-    margin-top: 50px;
+h4 {
+    padding-top: 10px;
+    color: var(--default-color);
 }
