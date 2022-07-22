@@ -91,3 +91,33 @@ i {
 .contact {
     padding-top: 300px;
 }
+
+.logo {
+    max-height: 80px;
+}
+nav {
+    padding: 20px 0;
+}
+nav ul {
+    padding:0;
+}
+nav li {
+    display:inline;
+    list-style:none;
+    line-height: 85px;
+  
+
+}
+
+nav a {
+    margin-left: 10px;
+    text-decoration: none;
+    color:white;
+    transition: all 100ms ease-in-out;
+    font-size:12px;
+}
+
+nav a:hover, nav li.active a {
+    color:var(--default-color);
+}
+
